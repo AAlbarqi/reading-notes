@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [class-01](#class-01)
+1. [class-01](https://aalbarqi.github.io/reading-notes/class-01)
    - *Introductory HTML and JavaScript*
 2. [class-02](#class-02)
 3. [class-03](#class-03)
