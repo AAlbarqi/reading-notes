@@ -4,7 +4,8 @@
 
 1. [class-01](https://aalbarqi.github.io/reading-notes/class-01)
    - *Introductory HTML and JavaScript*
-2. [class-02](#class-02)
+2. [class-02](https://aalbarqi.github.io/reading-notes/class-02)
+   - *Basics of HTML, CSS & JS*
 3. [class-03](#class-03)
 4. [class-04](#class-04)
 5. [class-05](#class-05)
