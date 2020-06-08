@@ -64,6 +64,6 @@ Each case indicates a possible value for this variable and the code that should 
     //Code goes here
 }`
 3. DO WHILE
-` do {
+- ` do {
     //Code goes here
 } while(i<5)
