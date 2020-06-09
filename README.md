@@ -8,7 +8,8 @@
    - *Basics of HTML, CSS & JS*
 - [class-03](https://aalbarqi.github.io/reading-notes/class-03)
    - *HTML Lists, CSS Boxes, JS Control Flow*
-- [class-04](#class-04)
+- [class-04](https://aalbarqi.github.io/reading-notes/class-04)
+   - *HTML Links, CSS Layout, JS Functions*
 - [class-05](#class-05)
 - [class-06](#class-06)
 - [class-07](#class-07)
