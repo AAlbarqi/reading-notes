@@ -10,7 +10,8 @@
    - *HTML Lists, CSS Boxes, JS Control Flow*
 - [class-04](https://aalbarqi.github.io/reading-notes/class-04)
    - *HTML Links, CSS Layout, JS Functions*
-- [class-05](#class-05)
+- [class-05](https://aalbarqi.github.io/reading-notes/class-05)
+   - *HTML Images; CSS Color & Text*
 - [class-06](#class-06)
 - [class-07](#class-07)
 - [class-08](#class-08)
