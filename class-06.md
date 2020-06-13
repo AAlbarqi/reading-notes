@@ -29,7 +29,7 @@ It how browsers should create a model of an HTML page and how JavaScript can acc
 2. Use its text content, child elements, and attributes. 
 
 ### Caching DOM queries 
-- DOM queries may return one element, or they may return a Nodelist, which is a collection of nodes. 
+ DOM queries may return one element, or they may return a Nodelist, which is a collection of nodes. 
 #### METHODS THAT RETURN A SINGLE ELEMENT NODE: 
 1. getElementByld('id');
    - `get ElementByld('one') `
