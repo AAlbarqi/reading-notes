@@ -16,8 +16,11 @@
    - *JS Object Literals; The DOM*
 - [class-07](https://aalbarqi.github.io/reading-notes/class-07)
 - [class-08](https://aalbarqi.github.io/reading-notes/class-08)
+   - *More CSS Layout*
 - [class-09](https://aalbarqi.github.io/reading-notes/class-09)
+   - *Forms and Events*
 - [class-10](https://aalbarqi.github.io/reading-notes/class-10)
+   - *JS Debugging*
 - [class-11](https://aalbarqi.github.io/reading-notes/class-11)
 - [class-12](https://aalbarqi.github.io/reading-notes/class-12)
 - [class-13](https://aalbarqi.github.io/reading-notes/class-13)
