@@ -1,6 +1,7 @@
 # JS Debugging
 
 When an Error object is created, it will contain the following properties:
+
 | PROPERTY | DESCRIPTION |
 | ------------- | ------------- |
 | name | Type of execution |
@@ -9,6 +10,7 @@ When an Error object is created, it will contain the following properties:
 | lineNumber | Line number of error |
 
 There are seven types of built-in error objects in JavaScript. You'll see them on the next two pages:
+
 | OBJECT | DESCRIPTION |
 | ------------- | ------------- |
 | Error | Generic error - the other errors are all based upon this error |
@@ -42,7 +44,8 @@ CHROME/ OPERA :On a PC, press the F12 key or:
 3. console.error() can be used to hold errors
 
 **Note** : You can pause the execution of a script on any line using breakpoints. Then you can check the values stored in variables at that point in time. 
-![](https://www.bitdegree.org/learn/storage/mediaimages29458b9c-4e11-40a5-b0c7-ae39690ba476.o.png)
+
+![](https://developers.google.com/web/tools/chrome-devtools/javascript/imgs/sources-annotated.png)
 
 #### HANDLING EXCEPTIONS 
 
