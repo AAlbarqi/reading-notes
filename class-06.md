@@ -35,6 +35,7 @@ It how browsers should create a model of an HTML page and how JavaScript can acc
    - `get ElementByld('one') `
 2. querySel ector('css selector')
    - `querySelector('l i . hot ' )`
+
 #### METHODS THAT RETURN ONE OR MORE ELEMENTS (AS A NODELIST):
 1. getElementsByClassName('class')
    - `getElementsByCl assName ('hot');`
