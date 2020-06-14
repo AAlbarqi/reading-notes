@@ -15,6 +15,7 @@
 - [class-06](https://aalbarqi.github.io/reading-notes/class-06)
    - *JS Object Literals; The DOM*
 - [class-07](https://aalbarqi.github.io/reading-notes/class-07)
+   - *HTML Tables; JS Constructor Functions*
 - [class-08](https://aalbarqi.github.io/reading-notes/class-08)
    - *More CSS Layout*
 - [class-09](https://aalbarqi.github.io/reading-notes/class-09)
