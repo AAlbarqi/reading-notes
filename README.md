@@ -23,7 +23,13 @@
 - [class-10](https://aalbarqi.github.io/reading-notes/class-10)
    - *JS Debugging*
 - [class-11](https://aalbarqi.github.io/reading-notes/class-11)
+     - *Audio, Video, Images*
 - [class-12](https://aalbarqi.github.io/reading-notes/class-12)
+     - *Chart.js, Canvas*
 - [class-13](https://aalbarqi.github.io/reading-notes/class-13)
-- [class-14](https://aalbarqi.github.io/reading-notes/class-14)
+     - *THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS*
+- [class-14a](https://aalbarqi.github.io/reading-notes/class-14)
+     - *CSS Transforms, Transitions, and Animations*
+- [class-14b](https://aalbarqi.github.io/reading-notes/class-14b)
+     - *What Google Learned About Teams*
 - [class-15](https://aalbarqi.github.io/reading-notes/class-15)
