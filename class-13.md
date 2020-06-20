@@ -26,9 +26,8 @@ check for HTML5 Storage
 
 #### STORAGEEVENT OBJECT
 
-| PROPERTY |	TYPE |	DESCRIPTION |
+| PROPERTY      |	TYPE        |	DESCRIPTION |
 | ------------- | ------------- | ------------- |
-
 | key |	string | the named key that was added, removed, or modified |
 | oldValue | any | the previous value (now overwritten), or null if a new item was added |
 | newValue | any | the new value, or null if an item was removed|
