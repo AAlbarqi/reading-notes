@@ -50,6 +50,6 @@ Gives an item a name so that it can be referenced by a template created with the
 
 Values:
 <name> – a name of your choosing
-<row-start> / <column-start> / <row-end> / <column-end> – can be numbers or named lines
+<row-start> / <column-start> / <row-end> / <column-end> – can be numbers or named lines.
 
 ![](https://css-tricks.com/wp-content/uploads/2018/11/grid-area.svg)
