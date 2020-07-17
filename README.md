@@ -39,6 +39,6 @@
 - [class-17](https://aalbarqi.github.io/reading-notes/class-17)
      - *MUSTACHE and FLEXBOX*
 - [class-18](https://aalbarqi.github.io/reading-notes/class-18)
-     - *CSS Grid*
+     - *Responsive Web Design and Regular Expressions*
 - [class-19](https://aalbarqi.github.io/reading-notes/class-19)
      - *HEROKU*
