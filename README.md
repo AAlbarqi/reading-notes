@@ -33,3 +33,12 @@
 - [class-14b](https://aalbarqi.github.io/reading-notes/class-14b)
      - *What Google Learned About Teams*
 - [class-15](https://aalbarqi.github.io/reading-notes/class-15)
+     - *SMACSS and Responsive Web Design*
+- [class-16](https://aalbarqi.github.io/reading-notes/class-16)
+- *jQuery, Events, and The DOM*
+- [class-17](https://aalbarqi.github.io/reading-notes/class-17)
+- *MUSTACHE and FLEXBOX*
+- [class-18](https://aalbarqi.github.io/reading-notes/class-18)
+- *CSS Grid*
+- [class-19](https://aalbarqi.github.io/reading-notes/class-19)
+- *HEROKU*
