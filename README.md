@@ -42,3 +42,13 @@
      - *Responsive Web Design and Regular Expressions*
 - [class-19](https://aalbarqi.github.io/reading-notes/class-19)
      - *HEROKU*
+- [class-20](https://aalbarqi.github.io/reading-notes/class-20)
+     - *Node Express and Apis*
+- [class-21](https://aalbarqi.github.io/reading-notes/class-21)
+     - *HEROKU*
+- [class-22](https://aalbarqi.github.io/reading-notes/class-22)
+     - *HEROKU*
+- [class-23](https://aalbarqi.github.io/reading-notes/class-23)
+     - *HEROKU*
+- [class-24](https://aalbarqi.github.io/reading-notes/class-24)
+     - *HEROKU*
