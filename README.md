@@ -45,10 +45,10 @@
 - [class-20](https://aalbarqi.github.io/reading-notes/class-20)
      - *Node Express and Apis*
 - [class-21](https://aalbarqi.github.io/reading-notes/class-21)
-     - *HEROKU*
+     - *REST APIs*
 - [class-22](https://aalbarqi.github.io/reading-notes/class-22)
-     - *HEROKU*
+     - *SQL*
 - [class-23](https://aalbarqi.github.io/reading-notes/class-23)
-     - *HEROKU*
+     - *FUNCTIONAL PROGRAMMING*
 - [class-24](https://aalbarqi.github.io/reading-notes/class-24)
-     - *HEROKU*
+     - *THE CALL STACK*
