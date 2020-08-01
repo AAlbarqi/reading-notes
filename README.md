@@ -52,3 +52,5 @@
      - *FUNCTIONAL PROGRAMMING*
 - [class-24](https://aalbarqi.github.io/reading-notes/class-24)
      - *THE CALL STACK*
+- [class-25](https://aalbarqi.github.io/reading-notes/class-25)
+     - *EJS*
