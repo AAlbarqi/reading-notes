@@ -54,3 +54,11 @@
      - *THE CALL STACK*
 - [class-25](https://aalbarqi.github.io/reading-notes/class-25)
      - *EJS*
+- [class-26](https://aalbarqi.github.io/reading-notes/class-26)
+     - *EJS PARTIALS*
+- [class-27](https://aalbarqi.github.io/reading-notes/class-27)
+     - *SENDING FORM DATA*
+- [class-28](https://aalbarqi.github.io/reading-notes/class-28)
+     - *DATABASE NORMALIZATION*
+- [class-29](https://aalbarqi.github.io/reading-notes/class-29)
+     - *DIVERSITY AND INCLUSION*
