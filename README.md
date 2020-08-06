@@ -2,40 +2,40 @@
 
 ## Table of Contents
 
-- Code 102 - Intro to Software Development
+- **Code 102 - Intro to Software Development**
 
-- [Class-01a](https://aalbarqi.github.io/learning-journal/READ01)
-     - *Growth mindset and reminders to keep myself in a growth mindset*
-- [Class-01b](https://aalbarqi.github.io/learning-journal/READ01-2)
-     - *Markdown*
-- [Class-02](https://aalbarqi.github.io/learning-journal/READ02)
-     - *Text Editors and why it’s important for software developers to be thoughtful about their selection of what they use to write code*
-     - *The command line and other definitions*
-- [Class-03](https://aalbarqi.github.io/learning-journal/READ03)
-     - *Practice with GitHub*
-- [Class-04a](https://aalbarqi.github.io/learning-journal/READ04-2)
-     - *HTML Structure*
-- [Class-04b](https://aalbarqi.github.io/learning-journal/READ04-3)
-     - *HTML5 Layout and Markups*
-- [Class-04c](https://aalbarqi.github.io/learning-journal/READ04-1)
-     - *Process & Design*
-- [Class-05](https://aalbarqi.github.io/learning-journal/READ05)
-     - *Design web pages with CSS*
-- [Class-06a](https://aalbarqi.github.io/learning-journal/READ06-1)
-     - *HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER*
-- [Class-06b](https://aalbarqi.github.io/learning-journal/READ06-2)
-     - *How computers are actually working!*
-- [Class-07](https://aalbarqi.github.io/learning-journal/READ07)
-     - *EXAMPLES OF JAVASCRIPT IN THE BROWSER*
-- [Class-08](https://aalbarqi.github.io/learning-journal/READ08)
-     - *LOOPS and OPERATORS*
+     - [Class-01a](https://aalbarqi.github.io/learning-journal/READ01)
+          - *Growth mindset and reminders to keep myself in a growth mindset*
+     - [Class-01b](https://aalbarqi.github.io/learning-journal/READ01-2)
+          - *Markdown*
+     - [Class-02](https://aalbarqi.github.io/learning-journal/READ02)
+          - *Text Editors and why it’s important for software developers to be thoughtful about their selection of what they use to write code*
+          - *The command line and other definitions*
+     - [Class-03](https://aalbarqi.github.io/learning-journal/READ03)
+          - *Practice with GitHub*
+     - [Class-04a](https://aalbarqi.github.io/learning-journal/READ04-2)
+          - *HTML Structure*
+     - [Class-04b](https://aalbarqi.github.io/learning-journal/READ04-3)
+          - *HTML5 Layout and Markups*
+     - [Class-04c](https://aalbarqi.github.io/learning-journal/READ04-1)
+          - *Process & Design*
+     - [Class-05](https://aalbarqi.github.io/learning-journal/READ05)
+          - *Design web pages with CSS*
+     - [Class-06a](https://aalbarqi.github.io/learning-journal/READ06-1)
+          - *HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER*
+     - [Class-06b](https://aalbarqi.github.io/learning-journal/READ06-2)
+          - *How computers are actually working!*
+     - [Class-07](https://aalbarqi.github.io/learning-journal/READ07)
+          - *EXAMPLES OF JAVASCRIPT IN THE BROWSER*
+     - [Class-08](https://aalbarqi.github.io/learning-journal/READ08)
+          - *LOOPS and OPERATORS*
 
 - **Cheat Sheet**
-[Cheat sheet](https://aalbarqi.github.io/learning-journal/CHEATSHEET)
-     - *A list of commands used in the terminal*
+     - [Cheat sheet](https://aalbarqi.github.io/learning-journal/CHEATSHEET)
+          - *A list of commands used in the terminal*
 
 
-- Code 201 - Foundations of Software Development
+- **Code 201 - Foundations of Software Development**
      - [class-01](https://aalbarqi.github.io/reading-notes/class-01)
           - *Introductory HTML and JavaScript*
      - [class-02](https://aalbarqi.github.io/reading-notes/class-02)
@@ -67,7 +67,7 @@
      - [class-14b](https://aalbarqi.github.io/reading-notes/class-14b)
           - *What Google Learned About Teams*
 
-- Code 301 - Intermediate Software Development
+- **Code 301 - Intermediate Software Development**
      - [class-01](https://aalbarqi.github.io/reading-notes/class-15)
           - *SMACSS and Responsive Web Design*
      - [class-02](https://aalbarqi.github.io/reading-notes/class-16)
@@ -99,4 +99,4 @@
      - [class-15](https://aalbarqi.github.io/reading-notes/class-29)
           - *DIVERSITY AND INCLUSION*
 
-- Code 401 - Advanced Software Development
+- **Code 401 - Advanced Software Development**
