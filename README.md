@@ -100,3 +100,9 @@
           - *DIVERSITY AND INCLUSION*
 
 - **Code 401 - Advanced Software Development**
+
+     - [class-00](https://aalbarqi.github.io/reading-notes/class-30)
+          - *ENGINEERING TOPICS*
+     - [class-01](https://aalbarqi.github.io/reading-notes/class-31)
+          - **
+
