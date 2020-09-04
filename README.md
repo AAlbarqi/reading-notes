@@ -108,9 +108,9 @@
      - [class-03](https://aalbarqi.github.io/reading-notes/class-32)
           - *Classes, Inheritance, Functional Programming*
      - [class-04](https://aalbarqi.github.io/reading-notes/class-33)
-          - **
+          - *Data Modeling & NoSQL Databases*
      - [class-05](https://aalbarqi.github.io/reading-notes/class-34)
-          - **
+          - *Advanced Mongo/Mongoose*
      - [class-06](https://aalbarqi.github.io/reading-notes/class-35)
           - **
      - [class-07](https://aalbarqi.github.io/reading-notes/class-36)

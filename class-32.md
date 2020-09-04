@@ -1,5 +1,7 @@
 # Classes, Inheritance, Functional Programming
 
+![](https://thepracticaldev.s3.amazonaws.com/i/nty82qv6m2sdjdwla7ue.png)
+
 #### TDD
 
 Test-Driven Development in JavaScript, (TDD) is a technique for ensuring that your code does what you think it does.
