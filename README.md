@@ -112,7 +112,7 @@
      - [class-05](https://aalbarqi.github.io/reading-notes/class-34)
           - *Advanced Mongo/Mongoose*
      - [class-06](https://aalbarqi.github.io/reading-notes/class-35)
-          - **
+          - *Linked Lists*
      - [class-07](https://aalbarqi.github.io/reading-notes/class-36)
           - **
      - [class-08](https://aalbarqi.github.io/reading-notes/class-37)
