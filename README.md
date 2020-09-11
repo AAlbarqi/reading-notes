@@ -114,13 +114,13 @@
      - [class-06](https://aalbarqi.github.io/reading-notes/class-35)
           - *Linked Lists*
      - [class-07](https://aalbarqi.github.io/reading-notes/class-36)
-          - **
+          - *HTTP and REST*
      - [class-08](https://aalbarqi.github.io/reading-notes/class-37)
-          - **
+          - *Express*
      - [class-09](https://aalbarqi.github.io/reading-notes/class-38)
-          - **
+          - *Express Routing & Connected API*
      - [class-10](https://aalbarqi.github.io/reading-notes/class-39)
-          - **
+          - *API Server*
      - [class-11](https://aalbarqi.github.io/reading-notes/class-40)
           - **
      - [class-12](https://aalbarqi.github.io/reading-notes/class-41)
