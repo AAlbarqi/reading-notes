@@ -122,17 +122,17 @@
      - [class-10](https://aalbarqi.github.io/reading-notes/class-39)
           - *API Server*
      - [class-11](https://aalbarqi.github.io/reading-notes/class-40)
-          - **
+          - *Stacks and Queues*
      - [class-12](https://aalbarqi.github.io/reading-notes/class-41)
-          - **
+          - *Authentication*
      - [class-13](https://aalbarqi.github.io/reading-notes/class-42)
-          - **
+          - *OAuth*
      - [class-14](https://aalbarqi.github.io/reading-notes/class-43)
-          - **
+          - *Bearer Authorization*
      - [class-15](https://aalbarqi.github.io/reading-notes/class-44)
-          - **
+          - *Access Control (ACL)*
      - [class-16](https://aalbarqi.github.io/reading-notes/class-45)
-          - **
+          - *Trees*
      - [class-17](https://aalbarqi.github.io/reading-notes/class-46)
           - **
      - [class-18](https://aalbarqi.github.io/reading-notes/class-47)
