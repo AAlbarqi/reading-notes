@@ -45,4 +45,4 @@ This is the server that presents the interface where the user approves or denies
 - cryptography : a method of protecting information and communications through the use of codes, so that only those for whom the information is intended can read and process it.
 
 #### Resources:
-[](https://aaronparecki.com/oauth-2-simplified/)
+[OAuth](https://aaronparecki.com/oauth-2-simplified/)

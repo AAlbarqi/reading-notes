@@ -134,13 +134,13 @@
      - [class-16](https://aalbarqi.github.io/reading-notes/class-45)
           - *Trees*
      - [class-17](https://aalbarqi.github.io/reading-notes/class-46)
-          - **
+          - *Event Driven Applications*
      - [class-18](https://aalbarqi.github.io/reading-notes/class-47)
-          - **
+          - *TCP Servers*
      - [class-19](https://aalbarqi.github.io/reading-notes/class-48)
-          - **
+          - *Socket.io*
      - [class-20](https://aalbarqi.github.io/reading-notes/class-49)
-          - **
+          - *Message Queues*
      - [class-21](https://aalbarqi.github.io/reading-notes/class-50)
           - **
      - [class-22](https://aalbarqi.github.io/reading-notes/class-51)
