@@ -142,15 +142,15 @@
      - [class-20](https://aalbarqi.github.io/reading-notes/class-49)
           - *Message Queues*
      - [class-21](https://aalbarqi.github.io/reading-notes/class-50)
-          - **
+          - *Component Based UI*
      - [class-22](https://aalbarqi.github.io/reading-notes/class-51)
-          - **
+          - *Props and State*
      - [class-23](https://aalbarqi.github.io/reading-notes/class-52)
-          - **
+          - *Component Composition*
      - [class-24](https://aalbarqi.github.io/reading-notes/class-53)
-          - **
+          - *Routing*
      - [class-25](https://aalbarqi.github.io/reading-notes/class-54)
-          - **
+          - *Hash Tables*
      - [class-26](https://aalbarqi.github.io/reading-notes/class-55)
           - **
      - [class-27](https://aalbarqi.github.io/reading-notes/class-56)
@@ -181,14 +181,3 @@
           - **
      - [class-40](https://aalbarqi.github.io/reading-notes/class-69)
           - **
-     - [class-41](https://aalbarqi.github.io/reading-notes/class-70)
-          - **
-     - [class-42](https://aalbarqi.github.io/reading-notes/class-71)
-          - **
-     - [class-43](https://aalbarqi.github.io/reading-notes/class-72)
-          - **
-     - [class-44](https://aalbarqi.github.io/reading-notes/class-73)
-          - **
-     - [class-45](https://aalbarqi.github.io/reading-notes/class-74)
-          - **
-
