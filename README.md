@@ -152,13 +152,13 @@
      - [class-25](https://aalbarqi.github.io/reading-notes/class-54)
           - *Hash Tables*
      - [class-26](https://aalbarqi.github.io/reading-notes/class-55)
-          - **
+          - *Hooks API*
      - [class-27](https://aalbarqi.github.io/reading-notes/class-56)
-          - **
+          - *Context API*
      - [class-28](https://aalbarqi.github.io/reading-notes/class-57)
-          - **
+          - *<Login /> and <Auth />*
      - [class-29](https://aalbarqi.github.io/reading-notes/class-58)
-          - **
+          - *Graphs*
      - [class-30](https://aalbarqi.github.io/reading-notes/class-59)
           - **
      - [class-31](https://aalbarqi.github.io/reading-notes/class-60)
