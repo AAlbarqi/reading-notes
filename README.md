@@ -154,21 +154,21 @@
      - [class-26](https://aalbarqi.github.io/reading-notes/class-55)
           - *Hooks API*
      - [class-27](https://aalbarqi.github.io/reading-notes/class-56)
-          - *Context API*
+          - *Custom Hooks*
      - [class-28](https://aalbarqi.github.io/reading-notes/class-57)
-          - *<Login /> and <Auth />*
+          - *Context API*
      - [class-29](https://aalbarqi.github.io/reading-notes/class-58)
-          - *Graphs*
+          - *<Login /> and <Auth />*
      - [class-30](https://aalbarqi.github.io/reading-notes/class-59)
-          - **
+          - *Graphs*
      - [class-31](https://aalbarqi.github.io/reading-notes/class-60)
-          - **
+          - *Application State with Redux*
      - [class-32](https://aalbarqi.github.io/reading-notes/class-61)
-          - **
+          - *Redux - Combined Reducers*
      - [class-33](https://aalbarqi.github.io/reading-notes/class-62)
-          - **
+          - *Redux - Asynchronous Actions*
      - [class-34](https://aalbarqi.github.io/reading-notes/class-63)
-          - **
+          - *Redux - Additional Topics*
      - [class-35](https://aalbarqi.github.io/reading-notes/class-64)
           - **
      - [class-36](https://aalbarqi.github.io/reading-notes/class-65)
