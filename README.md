@@ -170,14 +170,11 @@
      - [class-34](https://aalbarqi.github.io/reading-notes/class-63)
           - *Redux - Additional Topics*
      - [class-35](https://aalbarqi.github.io/reading-notes/class-64)
-          - **
+          - *React Native*
      - [class-36](https://aalbarqi.github.io/reading-notes/class-65)
-          - **
+          - *Ethics in Tech*
      - [class-37](https://aalbarqi.github.io/reading-notes/class-66)
-          - **
+          - *Gatsby, next.js, and other JS Frameworks*
      - [class-38](https://aalbarqi.github.io/reading-notes/class-67)
           - **
-     - [class-39](https://aalbarqi.github.io/reading-notes/class-68)
-          - **
-     - [class-40](https://aalbarqi.github.io/reading-notes/class-69)
-          - **
+
