@@ -172,7 +172,7 @@
      - [class-35](https://aalbarqi.github.io/reading-notes/class-64)
           - *React Native*
      - [class-36](https://aalbarqi.github.io/reading-notes/class-65)
-          - *Ethics in Tech*
+          - *Advanced React Native*
      - [class-37](https://aalbarqi.github.io/reading-notes/class-66)
           - *Gatsby, next.js, and other JS Frameworks*
      - [class-38](https://aalbarqi.github.io/reading-notes/class-67)
